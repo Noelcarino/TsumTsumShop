@@ -5,9 +5,7 @@ export default class CartSummaryItem extends React.Component {
     super(props);
     this.state = {
       productID: this.props.productID,
-
-      cartID: this.props.cartID
-    };
+      cartID: this.props.cartID };
   }
   render() {
     return (
