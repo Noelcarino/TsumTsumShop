@@ -1,4 +1,5 @@
 <?php
+
     if(!defined("INTERNAL")){
         exit('Direct Access Not Allowed');
     }
