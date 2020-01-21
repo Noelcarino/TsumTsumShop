@@ -1,5 +1,4 @@
 # TsumTsumShop
-<<<<<<< HEAD
 An ecommerce website where you can purchase Disney Tsum Tsum! 
 
 # Preview
@@ -28,7 +27,7 @@ An ecommerce website where you can purchase Disney Tsum Tsum!
 ![](/server/public/images-tsum-tsum/tsumtsumshoppreview.gif)
 
 # Try out the Application!
-  ```
+
   <br /> 1) Clone repository <br />
     ```
     git clone https://github.com/Noelcarino/TsumTsumShop.git
@@ -54,8 +53,7 @@ An ecommerce website where you can purchase Disney Tsum Tsum!
     sudo service apache2 restart
     ```
     
-  <br /> 6) Start `webpack-dev-server` by running provided`"dev"` script in `packace.json`.
+  <br /> 6) Start `webpack-dev-server` by running provided`"dev"` script in `packace.json`. <br />
     ```
     npm run dev
     ```
->>>>>>> 3bfa3f88db091072562ff74f16f4de183172c5ee
