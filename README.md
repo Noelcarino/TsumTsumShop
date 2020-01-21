@@ -22,7 +22,8 @@
 ![](/server/public/images-tsum-tsum/tsumtsumshoppreview.gif)
 
 # Try out the Application!
-  1) Clone repository <br />
+  ```
+  <br /> 1) Clone repository <br />
     ```
     git clone https://github.com/Noelcarino/TsumTsumShop.git
     ```
