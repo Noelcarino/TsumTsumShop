@@ -1,5 +1,5 @@
 {
-  "name": "wicked-sales",
+  "name": "tsumtsumshop",
   "version": "1.0.0",
   "description": "A full stack LAMP & React shopping cart app.",
   "scripts": {
@@ -101,13 +101,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Learning-Fuze/wicked-sales.git"
+    "url": "git+https://github.com/Noelcarino/TsumTsumShop.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Learning-Fuze/wicked-sales/issues"
-  },
-  "homepage": "https://github.com/Learning-Fuze/wicked-sales#readme"
+  "homepage": "https://github.com/Noelcarino/TsumTsumShop#readme"
 }

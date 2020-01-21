@@ -121,9 +121,8 @@ export default class CheckoutForm extends React.Component {
                 onChange={this.handleChange}></textarea>
             </div>
             <div className="container-fluid p-0 mx-auto mb-3 ml-md-0 col-12 row ">
-              <input className="btn btn-danger btn-block col-3 mx-auto" type="submit" value={'Place Order of $' + this.props.totalPrice}
+              <input className="btn btn-danger btn-block col-12 col-md-4 mx-auto" type="submit" value={'Place Order of $' + this.props.totalPrice}
               />
-
             </div>
           </form>
         </div>
