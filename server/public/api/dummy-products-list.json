@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Shake Weight",
+    "price": 2999,
+    "image": [
+      "https://bit.ly/2JtVNE6",
+      "https://pmcspy.files.wordpress.com/2019/01/shake-weight-product-7.jpg?w=352&h=265&crop=1"
+    ],
+    "shortDescription": "Dynamic Inertia technology ignites muscles in arms, shoulders, and chest."
+  },
+  {
+    "id": 2,
+    "name": "ShamWow",
+    "price": 2595,
+    "image": [
+      "https://bit.ly/2w9C3Nm",
+      "https://sc02.alicdn.com/kf/H418c5c3d4df846818aa8e9be314de048l/TV-absorbent-pet-rag-household-ShamWow-multi.jpg_300x300.jpg"
+    ],
+    "shortDescription": "It's like a chamois, towel, and sponge, all in one! Soaks up to 10x it's weight in any liquid!"
+  },
+  {
+    "id": 3,
+    "name": "Snuggie",
+    "price": 2900,
+    "image": [
+      "https://bit.ly/2LVHYAk",
+      "https://images-na.ssl-images-amazon.com/images/I/61FdrmnkdLL._SX466_.jpg"
+    ],
+    "shortDescription": "Super-Soft Fleece with pockets! One Size fits all Adults! Keeps you Warm & Your Hands-Free!"
+  },
+  {
+    "id": 4,
+    "name": "Wax Vac",
+    "price": 999,
+    "image": [
+      "https://bit.ly/2EjCU2a",
+      "https://cdn3.volusion.com/bdaks.jjzva/v/vspfiles/photos/wax_vac-2T.jpg?v-cache=1406106357"
+    ],
+    "shortDescription": "Gentle way to remove ear wax. Safe and hygienic. Reduces the risk of painful infections."
+  },
+  {
+    "id": 5,
+    "name": "Ostrich Pillow",
+    "price": 9900,
+    "image": [
+      "https://bit.ly/2VD80b8",
+      "https://images.vat19.com/covers/large/ostrich-pillow.jpg"
+    ],
+    "shortDescription": "Create your own snugly space in the world and feel-good anywhere with the ultimate cocoon pillow."
+  },
+  {
+    "id": 6,
+    "name": "Tater Mitts",
+    "price": 830,
+    "image": [
+      "https://bit.ly/2w9EmzO",
+      "https://images-na.ssl-images-amazon.com/images/I/51JFBmgSN3L._SX425_.jpg"
+    ],
+    "shortDescription": "8 Seconds is All You Need with Tater Mitts Quickly and easily prepare all your favorite potato dishes with Tater Mitts."
+  }
+]
