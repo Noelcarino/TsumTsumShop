@@ -18,7 +18,7 @@ export default class CartSummary extends React.Component {
       <button className="btn btn-danger btn-block py-0" onClick={() => this.props.setView('catalog')}>
                         Back to Home Page
       </button>
-    </React.Fragment>;
+    </React.Fragment>
 
     if (this.props.cartArray.length === 0) {
       elementToRender =
@@ -29,7 +29,7 @@ export default class CartSummary extends React.Component {
               <button className="btn btn-danger py-0" onClick={() => this.props.setView('catalog')}>
                         Back to Home Page
               </button>
-            </div>;
+            </div>
     } else {
       elementToRender =
       <div className="container-fluid col-md-8 m-auto p-1">
@@ -40,7 +40,7 @@ export default class CartSummary extends React.Component {
               <div key={index} className="container-fluid mx-auto text-center px-5 m-5">
                 {emptyCartDiv}
               </div>
-            );
+            )
           }
           if (parseInt(product.count) !== 0) {
             return <CartSummaryItem
@@ -55,11 +55,9 @@ export default class CartSummary extends React.Component {
               removeFromCart={this.props.removeFromCart}
             />;
           }
+        })
         }
-        )
-        }
-      </div>;
-
+      </div>
     }
     if (productCountTotal !== 0) {
       procceedToCheckoutButton =
@@ -81,8 +79,7 @@ export default class CartSummary extends React.Component {
             </button>
           </div>
         </div>
-      </div>;
-
+      </div>
     }
     return (
       <div className="container-fluid row px-1 py-5 py-md-3 mx-auto mt-2">
