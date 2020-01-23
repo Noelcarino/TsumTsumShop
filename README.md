@@ -1,5 +1,5 @@
 # TsumTsumShop
-An ecommerce website where you can purchase Disney Tsum Tsum! 
+A Full Stack LAMP & React single-page eccomerce application where you can shop for Disney Tsum Tsum products!
 
 # Preview
 ![](/server/public/images-tsum-tsum/tsumtsumshoppreview.gif)
