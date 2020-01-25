@@ -12,7 +12,7 @@ class Header extends React.Component {
     return (
       <div style={{ position: 'fixed', top: '0', zIndex: '1' }} className="container-fluid row p-2 mx-auto bg-dark justify-content-between text-light ">
         <div className="container-fluid col-md-8  mx-auto text-center text-md-left" onClick={() => this.props.setView('catalog')}>
-          <h2>Disney Tsum Tsum</h2>
+          <h2>Tsum Tsum Shop</h2>
         </div>
         <div className="container-fluid col-md-4 row mx-auto d-flex ">
           <div className="container-fluid col badge mx-auto d-flex align-items-center" onClick={() => this.props.setView('cart')}>
