@@ -1,5 +1,5 @@
 # TsumTsumShop
-A Full Stack LAMP & React single-page eccomerce application where you can shop for Disney Tsum Tsum products!
+A Full Stack LAMP & React single-page ecomerce application where you can shop for Disney Tsum Tsum products!
 
 ### Preview
 ![](/server/public/images-tsum-tsum/tsumtsumshoppreview.gif)
