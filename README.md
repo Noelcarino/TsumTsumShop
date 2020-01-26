@@ -26,7 +26,7 @@ A Full Stack LAMP & React single-page ecomerce application where you can shop fo
 
 ### Try out the Application!
 
-    1) Clone repository <br />
+  <br />1) Clone repository <br />
     ```
     git clone https://github.com/Noelcarino/TsumTsumShop.git
     ```
