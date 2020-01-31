@@ -33,7 +33,7 @@ A Full Stack LAMP & React single-page ecomerce application where you can shop fo
     npm install
     ```
   
-  <br />3) Copy the provided config file `TsumTsumShop.local.conf` to `/etc/apache2/sites-available`. <br />
+  <br />3) Copy the provided config file "TsumTsumShop.local.conf" to "/etc/apache2/sites-available". <br />
     ```
     sudo cp server/TsumTsumShop.local.conf /etc/apache2/sites-available
     ```
